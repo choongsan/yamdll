@@ -1,6 +1,6 @@
 {
   "name": "yamdll",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Yet anoter AMD DLL for webpack",
   "main": "lib/index.js",
   "scripts": {
